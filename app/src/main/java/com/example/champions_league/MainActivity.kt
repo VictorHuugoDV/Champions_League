@@ -54,6 +54,7 @@ fun TitleData() {
     Column {
         Text(text = stringResource(id = R.string.champions_league), fontSize = 20.sp,
         modifier = Modifier
+            .padding(top=15.dp, bottom = 15.dp)
         )
         DataList(list = DataSource().loandDatas())
     }
