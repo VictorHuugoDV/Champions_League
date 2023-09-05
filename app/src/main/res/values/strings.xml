@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Champions_League</string>
+    <string name="equipe_1">Real Madrid</string>
+    <string name="equipe_2">Milan</string>
+    <string name="equipe_3">Bayern de Munique</string>
+    <string name="equipe_4">Liverpool</string>
+    <string name="equipe_5">Barcelona</string>
+    <string name="equipe_6">Ajax</string>
+    <string name="equipe_7">Inter de Milão</string>
+    <string name="equipe_8">Manchester United</string>
+    <string name="equipe_9">Juventus</string>
+    <string name="equipe_10">Benfica</string>
+    <string name="equipe_11">Chelsea</string>
+    <string name="equipe_12">Nottingham Forest</string>
+    <string name="equipe_13">Porto</string>
+    <string name="equipe_14">Borussia Dortmund</string>
+    <string name="equipe_15">Celtic</string>
+    <string name="equipe_16">Hamburgo</string>
+    <string name="equipe_17">Steaua Bucareste</string>
+    <string name="equipe_18">Olympique de Marselha</string>
+    <string name="equipe_19">Feyenoord</string>
+    <string name="equipe_20">Aston Villa</string>
+    <string name="equipe_21">PSV</string>
+    <string name="equipe_22">Estrela Vermelha</string>
+    <string name="equipe_23">Manchester City</string>
+    <string name="titulos_1">14</string>
+    <string name="titulos_2">7</string>
+    <string name="titulos_3">6</string>
+    <string name="titulos_4">6</string>
+    <string name="titulos_5">5</string>
+    <string name="titulos_6">4</string>
+    <string name="titulos_7">3</string>
+    <string name="titulos_8">3</string>
+    <string name="titulos_9">2</string>
+    <string name="titulos_10">2</string>
+    <string name="titulos_11">2</string>
+    <string name="titulos_12">2</string>
+    <string name="titulos_13">2</string>
+    <string name="titulos_14">1</string>
+
+    <string name="champions_league">Maiores campeões da Champions League:</string>
+</resources>
